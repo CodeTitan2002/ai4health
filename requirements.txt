@@ -1,0 +1,17 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# LLM + API
+requests
+python-dotenv
+
+# Image Handling
+Pillow
+
+# UI
+streamlit
+
+# Optional but Useful
+tqdm
